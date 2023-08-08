@@ -39,26 +39,19 @@ button {
 }
 
 .galery {
-    padding-top: 64px;
-    width: 1312px;
-    height: 592px;
+    margin-top: 64px;
+    max-width: 1312px;
+    max-height: 592px;
     margin: 40px auto;
-}
-
-.gal-1 {
-    width: 1312px;
-    height: 288px;
-}
-
-.gal-2 {
-    padding-top: 16px;
-    width: 1312px;
-    height: 288px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
 }
 
 img {
-   padding-right: 8px;
     width: 316px;
     height: 288px;
     border-radius: 16px;
-}
+   }
