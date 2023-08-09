@@ -20,7 +20,7 @@ header {
 
 button {
     display: block;
-    margin: 40px auto;
+    margin: 24px auto 0 auto;
     width: 158px;
     height: 56px;
     font-size: 18px;
