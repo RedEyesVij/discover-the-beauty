@@ -57,7 +57,7 @@ button {
 
 @media (max-width: 1012px) {
     .galery {
-        max-width: 776px;
+        max-width: 1000px;
         margin: 32px auto 0 auto;
     }
 
